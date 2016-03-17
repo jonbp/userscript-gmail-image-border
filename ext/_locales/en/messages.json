@@ -1,0 +1,14 @@
+{
+  "l10n_ext_name": {
+    "message": "Gmail Image Border"
+  },
+  "l10n_ext_description": {
+    "message": "Add borders for pasted images in Gmail letter"
+  },
+  "l10n_add_borders": {
+    "message": "Add borders"
+  },
+  "l10n_remove_borders": {
+    "message": "Remove borders"
+  }
+}
