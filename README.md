@@ -1,6 +1,9 @@
-# Chrome extension lets to add borders for images in Gmail letter
+# Gmail Image Border
 
 ![Version](https://img.shields.io/badge/version-0.1.2-green.svg)
+![Status](https://img.shields.io/badge/status-beta-blue.svg)
+
+Chrome extension lets to add borders for images in Gmail letter.
 
 ![Main function](/images/ext-screenshot-640-400.png)
 
@@ -14,7 +17,7 @@
 * 0.1.0 Initial release
 
 ## ToDo
-- [ ] add box shadow?
+- [ ] add box shadow
 - [ ] select border color?
 - [ ] select border size?
 
