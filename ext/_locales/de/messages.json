@@ -3,12 +3,12 @@
     "message": "Gmail Image Border"
   },
   "l10n_ext_description": {
-    "message": "Manage image borders in a Gmail letter"
+    "message": "Management-Framing-Bilder in Google Mail"
   },
   "l10n_add_borders": {
-    "message": "Add borders"
+    "message": "Rahmen hinzufügen"
   },
   "l10n_remove_borders": {
-    "message": "Remove borders"
+    "message": "Rahmen entfernen"
   }
 }
