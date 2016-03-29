@@ -7,7 +7,8 @@ Chrome extension lets to manage borders for images in a Gmail letter.
 
 ![Main function](/images/ext-screenshot-640-400.png)
 
-## Features: 
+## Features:
+
 * add simple light-gray border for image
 
 ## Releases History
@@ -18,12 +19,14 @@ Chrome extension lets to manage borders for images in a Gmail letter.
 * 0.1.0 Initial release
 
 ## ToDo
+
 - [x] de, es, ru translations
 - [ ] add box shadow
 - [ ] select border color?
 - [ ] select border size?
 
 ## License
+
 Copyright (c) 2016 Anton Fisher <a.fschr@gmail.com>
 
 MIT License. Free use and change.
