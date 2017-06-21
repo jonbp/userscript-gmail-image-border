@@ -23,12 +23,12 @@ Install: [https://chrome.google.com/webstore/detail/gmail-image-border/mahlicjki
 ## ToDo
 
 - [x] de, es, ru translations
-- [ ] add box shadow
-- [ ] select border color?
-- [ ] select border size?
+- [ ] add box shadow (?)
+- [ ] select border color (?)
+- [ ] select border size (?)
 
 ## License
 
-Copyright (c) 2016 Anton Fisher <a.fschr@gmail.com>
+Copyright (c) 2017 Anton Fisher <a.fschr@gmail.com>
 
 MIT License. Free use and change.
