@@ -1,31 +1,14 @@
-# Chrome "Gmail Image Border" Extension
+# Userscript "Gmail Image Border" Extension
 
-![Version](https://img.shields.io/badge/version-0.1.3-green.svg)
-![Status](https://img.shields.io/badge/status-beta-blue.svg)
-
-Chrome extension lets to manage borders for images in a Gmail letter.
+Userscript to add border to images in Gmail compose window. Tested with Tampermonkey extension in Chrome.
 
 ![Main function](/images/ext-screenshot-640-400.png)
 
-Install: [https://chrome.google.com/webstore/detail/gmail-image-border/mahlicjkigbecnbblcogenidhakmghdk](https://chrome.google.com/webstore/detail/gmail-image-border/mahlicjkigbecnbblcogenidhakmghdk)
+[Click here to install](https://github.com/jonbp/userscript-gmail-image-border/raw/main/userscript-gmail-image-border.js)
 
 ## Features:
 
 * add simple light-gray border for image
-
-## Releases History
-
-* 0.1.3 Add de, es, ru translations
-* 0.1.2 Add link to git repository
-* 0.1.1 Update documentation
-* 0.1.0 Initial release
-
-## ToDo
-
-- [x] de, es, ru translations
-- [ ] add box shadow (?)
-- [ ] select border color (?)
-- [ ] select border size (?)
 
 ## License
 

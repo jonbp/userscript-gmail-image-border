@@ -1,6 +1,19 @@
-'use strict';
+// ==UserScript==
+// @name         Gmail Image Border
+// @namespace    http://tampermonkey.net/
+// @version      1.0
+// @description  Add border to images in Gmail compose window
+// @match        https://mail.google.com/*
+// @author       Anton Fisher (Ported by jonbp)
+// @updateURL    https://github.com/jonbp/userscript-gmail-image-border/raw/main/userscript-gmail-image-border.js
+// @downloadURL  https://github.com/jonbp/userscript-gmail-image-border/raw/main/userscript-gmail-image-border.js
+// @grant        none
+// ==/UserScript==
 
-;(function () {
+(function () {
+
+  'use strict';
+
   var DEBUG = false;
   var EXT_NAME = 'ImageBorderExt';
   var controlsId = 'g-i-b-e-controls';
@@ -137,7 +150,7 @@
       var borderControls = createButtonsContainer(controlsId);
 
       borderControls.appendChild(createButton(
-        chrome.i18n.getMessage('l10n_add_borders'),
+        "Add Border",
         exampleButton.className,
         function () {
           clickTarget.style.border = '1px solid #ddd';
@@ -145,7 +158,7 @@
       ));
       borderControls.appendChild(cloneSeporator(findSeporator(exampleButton.parentNode)));
       borderControls.appendChild(createButton(
-        chrome.i18n.getMessage('l10n_remove_borders'),
+        "Remove Border",
         exampleButton.className,
         function () {
           clickTarget.style.border = 'none';
