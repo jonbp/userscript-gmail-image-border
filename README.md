@@ -4,7 +4,7 @@ Userscript to add border to images in Gmail compose window. Tested with Tampermo
 
 ![Main function](/images/ext-screenshot-640-400.png)
 
-[Click here to install](https://github.com/jonbp/userscript-gmail-image-border/raw/main/userscript-gmail-image-border.js)
+[Click here to install](https://github.com/jonbp/userscript-gmail-image-border/raw/main/userscript-gmail-image-border.user.js)
 
 ## Features:
 

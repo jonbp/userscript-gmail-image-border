@@ -5,8 +5,8 @@
 // @description  Add border to images in Gmail compose window
 // @match        https://mail.google.com/*
 // @author       Anton Fisher (Ported by jonbp)
-// @updateURL    https://github.com/jonbp/userscript-gmail-image-border/raw/main/userscript-gmail-image-border.js
-// @downloadURL  https://github.com/jonbp/userscript-gmail-image-border/raw/main/userscript-gmail-image-border.js
+// @updateURL    https://github.com/jonbp/userscript-gmail-image-border/raw/main/userscript-gmail-image-border.user.js
+// @downloadURL  https://github.com/jonbp/userscript-gmail-image-border/raw/main/userscript-gmail-image-border.user.js
 // @grant        none
 // ==/UserScript==
 
